@@ -1,0 +1,83 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 110,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_longbow"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_heavy_crossbow"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:iron_basic_shield"
+		}
+	},{
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:iron_tower_shield"
+		}
+	},{
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:obsidian_basic_shield"
+		}
+	},{
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:obsidian_tower_shield"
+		}
+	},{
+		"weight": 3,
+		"stack": {
+			"item": "spartanshields:refined_obsidian_basic_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:diamond_helmet"
+		}
+	}],
+	"tags": [
+		"deep_dark_bow"
+	]
+}
