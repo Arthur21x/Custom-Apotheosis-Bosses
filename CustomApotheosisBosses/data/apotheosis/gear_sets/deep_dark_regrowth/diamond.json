@@ -1,0 +1,227 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 120,
+	"mainhands": [{
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_longsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_katana"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_battleaxe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_halberd"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_pike"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_greatsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_glaive"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:diamond_quarterstaff"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_scythe"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_battle_hammer"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_flanged_mace"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_lance"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_warhammer"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_spear"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_saber"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_pickaxe"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_shovel"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_parrying_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_rapier"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_throwing_knife"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_tomahawk"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_javelin"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:diamond_boomerang"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:iron_basic_shield"
+		}
+	},{
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:iron_tower_shield"
+		}
+	},{
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:obsidian_basic_shield"
+		}
+	},{
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:obsidian_tower_shield"
+		}
+	},{
+		"weight": 3,
+		"stack": {
+			"item": "spartanshields:refined_obsidian_basic_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:diamond_helmet"
+		}
+	}],
+	"tags": [
+		"deep_dark"
+	]
+}

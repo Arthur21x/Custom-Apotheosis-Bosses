@@ -1,0 +1,189 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 90,
+	"mainhands": [{
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_longsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_katana"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_battleaxe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_halberd"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_pike"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_greatsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_glaive"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:nickel_quarterstaff"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_scythe"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_battle_hammer"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_flanged_mace"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_lance"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_warhammer"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_spear"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:nickel_saber"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_parrying_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_rapier"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_throwing_knife"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_tomahawk"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_javelin"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:nickel_boomerang"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "spartanshields:nickel_basic_shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:nickel_tower_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:chainmail_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:chainmail_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:chainmail_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:chainmail_helmet"
+		}
+	},
+	{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:turtle_helmet"
+		}
+	}],
+	"tags": [
+		"overworld"
+	]
+}

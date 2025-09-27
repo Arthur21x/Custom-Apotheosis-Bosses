@@ -1,0 +1,189 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 90,
+	"mainhands": [{
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_longsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_katana"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_battleaxe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_halberd"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_pike"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_greatsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_glaive"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:stone_quarterstaff"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_scythe"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_battle_hammer"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_flanged_mace"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_lance"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_warhammer"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_spear"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:stone_saber"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_parrying_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_rapier"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_throwing_knife"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_tomahawk"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_javelin"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:stone_boomerang"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "spartanshields:stone_basic_shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:stone_tower_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:chainmail_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:chainmail_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:chainmail_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:chainmail_helmet"
+		}
+	},
+	{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:turtle_helmet"
+		}
+	}],
+	"tags": [
+		"overworld"
+	]
+}

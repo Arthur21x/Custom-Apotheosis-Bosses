@@ -1,0 +1,63 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 100,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:wooden_longbow"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:wooden_heavy_crossbow"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "spartanshields:wooden_basic_shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:wooden_tower_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:leather_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:leather_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:leather_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:leather_helmet"
+		}
+	}],
+	"tags": [
+		"overworld_bow"
+	]
+}

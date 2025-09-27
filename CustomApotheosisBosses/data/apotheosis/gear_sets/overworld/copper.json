@@ -1,0 +1,183 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 100,
+	"mainhands": [{
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_longsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_katana"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_battleaxe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_halberd"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_pike"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_greatsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_glaive"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanweaponry:copper_quarterstaff"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_scythe"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_battle_hammer"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_flanged_mace"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_lance"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_warhammer"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_spear"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:copper_saber"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_parrying_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_rapier"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_throwing_knife"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_tomahawk"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_javelin"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanweaponry:copper_boomerang"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "spartanshields:copper_basic_shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:copper_tower_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:leather_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:leather_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:leather_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:leather_helmet"
+		}
+	}],
+	"tags": [
+		"overworld"
+	]
+}
