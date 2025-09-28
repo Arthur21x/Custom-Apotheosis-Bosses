@@ -1,0 +1,63 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanweaponry"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "spartanshields"
+    }
+    ],
+	"weight": 70,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_longbow"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanweaponry:diamond_heavy_crossbow"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "spartanshields:diamond_basic_shield"
+		}
+	}, {
+		"weight": 2,
+		"stack": {
+			"item": "spartanshields:diamond_tower_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:diamond_helmet"
+		}
+	}],
+	"tags": [
+		"the_nether_bow"
+	]
+}
