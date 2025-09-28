@@ -48,9 +48,13 @@ Os seguintes mods são **obrigatórios** para o funcionamento do datapack:
    **Install _all_ mods listed above**
 2. Coloque a pasta `CustomApotheosisBosses` em `saves/<seu_mundo>/datapacks/`  
    **Put the `CustomApotheosisBosses` folder into `saves/<your_world>/datapacks/`**
-3. Execute `/reload` ou reinicie o mundo  
+3. Vá na pasta `.minecraft/config/apotheosis` e abra o arquivo `adventure.cfg`
+   **Go to the `.minecraft/config/apotheosis` folder and edit the `adventure.cfg` file**
+4. Procure pelo campo "Bosses" adicione o seguinte ao campo "Boss Spawn Dimensions": deeperdarker:otherside|0.05|ANY
+   **Search for the "Bosses" field and add the following to the "Boss Spawn Dimensions" field: deeperdarker:otherside|0.05|ANY**
+5. Execute `/reload` ou reinicie o mundo  
    **Run `/reload` or restart your world**
-
+s
 ## 🛠️ Desenvolvimento | Development
 - Veja o arquivo `CHANGELOG.md` para atualizações  
   **See `CHANGELOG.md` for updates**
