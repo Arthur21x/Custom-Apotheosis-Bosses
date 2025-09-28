@@ -8,17 +8,19 @@ Datapack não-oficial que expande o sistema de bosses do Apotheosis, adicionando
 **This is an unofficial datapack that expands Apotheosis’s boss system, adding epic creatures and new rewards.**
 
 ## 🚀 Recursos | Features
-- ✅ Novo Boss No Overworld  
-  **New Boss in the Overworld**
+- ✅ Novos Bosses No Overworld  
+  **New Bosses in the Overworld**
 - ✅ Novos Drops de Armas no Overworld com Drops de Armas do Spartan Shields e Spartan Weaponry  
   **New Weapon Drops in the Overworld including Spartan Shields and Spartan Weaponry items**
-- ✅ Compatibilidade do Apotheosis com Deeper and Darker  
-  **Compatibility between Apotheosis and Deeper and Darker**
+- ✅ Compatibilidade do Apotheosis com a Dimensão do Deeper and Darker  
+  **Compatibility between Apotheosis and Deeper and Darker Dimension** 
 
 ## 🎯 Bosses Implementados | Implemented Bosses
 | Boss                       | Dificuldade | Dimensão  | Difficulty          | Dimension |
 |----------------------------|-------------|-----------|---------------------|-----------|
 | Behemoth Desert Spider     | Épico       | Overworld | Epic                | Overworld |
+| Tortured Soul              | Épico       | Overworld | Epic                | Overworld |
+| Knights Armor              | Épico       | Overworld | Epic                | Overworld |
 | Abomination                | Mítico      | Otherside | Mythic              | Otherside |
 | Corrupted Skeleton         | Mítico      | Otherside | Mythic              | Otherside |
 | Stalker                    | Mítico      | Otherside | Mythic              | Otherside |
@@ -38,6 +40,8 @@ Os seguintes mods são **obrigatórios** para o funcionamento do datapack:
 - [Arthropocolypse](https://www.curseforge.com/minecraft/mc-mods/arthropocolypse)
 - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
+- [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/aquamirae)
+- [Legendary Monsters](https://www.curseforge.com/minecraft/mc-mods/legendary-monsters)
 
 ### 📌 Passos de Instalação | Installation Steps
 1. Instale **todos** os mods listados acima  
