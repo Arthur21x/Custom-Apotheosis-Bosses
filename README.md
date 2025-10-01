@@ -26,6 +26,9 @@ Datapack não-oficial que expande o sistema de bosses do Apotheosis, adicionando
 | Stalker                    | Mítico      | Otherside | Mythic              | Otherside |
 | Spreader                   | Mítico      | Otherside | Mythic              | Otherside |
 | Shattered                  | Mítico      | Otherside | Mythic              | Otherside |
+| Ignited Revenant           | Épico       | Nether    | Epic                | Nether    |
+| Kral                       | Épico       | Nether    | Epic                | Nether    |
+| Vex                        | Épico       | Nether    | Epic                | Nether    |
 | *Mais em desenvolvimento!* |             |           | *More coming soon!* |           |
 
 
@@ -42,6 +45,10 @@ Os seguintes mods são **obrigatórios** para o funcionamento do datapack:
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
 - [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/aquamirae)
 - [Legendary Monsters](https://www.curseforge.com/minecraft/mc-mods/legendary-monsters)
+- [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+- [Spartan Fire](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-ice-and-fire)
+- [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
+- [Nether Update Expanded](https://www.curseforge.com/minecraft/mc-mods/nether-update-expanded)
 
 ### 📌 Passos de Instalação | Installation Steps
 1. Instale **todos** os mods listados acima  

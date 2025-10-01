@@ -1,0 +1,218 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "spartanfire"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "iceandfire"
+    },
+    {
+        "type": "forge:mod_loaded",
+        "modid": "aquamirae"
+    }
+    ],
+	"weight": 70,
+	"mainhands": [{
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_longsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_katana"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_battleaxe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_halberd"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_pike"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_greatsword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_glaive"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "spartanfire:dragon_bone_quarterstaff"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_scythe"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_battle_hammer"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_flanged_mace"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_lance"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_warhammer"
+			}
+		},
+         {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_spear"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_saber"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "iceandfire:dragonbone_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "iceandfire:dragonbone_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "iceandfire:dragonbone_pickaxe"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "iceandfire:dragonbone_shovel"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_parrying_dagger"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_rapier"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_throwing_knife"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_tomahawk"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_javelin"
+			}
+		},
+        {
+			"weight": 2,
+			"stack": {
+				"item": "spartanfire:dragon_bone_boomerang"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_longbow"
+			}
+		},
+        {
+			"weight": 3,
+			"stack": {
+				"item": "spartanfire:dragon_bone_heavy_crossbow"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "aquamirae:treasure_pouch"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "iceandfire:deathworm_red_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "iceandfire:deathworm_red_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "iceandfire:deathworm_red_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "iceandfire:deathworm_red_helmet"
+		}
+	}],
+	"tags": [
+		"the_nether_kral"
+	]
+}
