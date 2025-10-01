@@ -1,0 +1,76 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "caverns_and_chasms"
+	},
+    {
+        "type": "forge:mod_loaded",
+        "modid": "cataclysm"
+    }
+    ],
+	"weight": 70,
+	"mainhands": [{
+			"weight": 4,
+			"stack": {
+				"item": "cataclysm:black_steel_sword"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "cataclysm:black_steel_pickaxe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "cataclysm:black_steel_hoe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "cataclysm:black_steel_axe"
+			}
+		},
+        {
+			"weight": 4,
+			"stack": {
+				"item": "cataclysm:black_steel_shovel"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "cataclysm:black_steel_targe"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "caverns_and_chasms:sanguine_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "caverns_and_chasms:sanguine_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "caverns_and_chasms:sanguine_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 9,
+		"stack": {
+			"item": "caverns_and_chasms:sanguine_helmet"
+		}
+	}],
+	"tags": [
+		"the_nether_ignited_revenant"
+	]
+}

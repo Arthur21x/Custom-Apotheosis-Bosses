@@ -5,6 +5,11 @@ Todos as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
 e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## v4 - 2025-10-01
+### ✨ Atualização e Melhoria de vida
+- **Adicionado**: Novos chefes com novos drops no Nether
+- **Melhoria**: Ajuste nos Atributos dos chefes da dimensão Otherside
+
 ## v3 - 2025-09-28
 ### ✨ Atualização
 - **Adicionado**: Novos drops de escudos e armas para o Nether e a adição de 2 novos minérios como drops de armas e escudos
